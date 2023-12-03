@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{5B06E2B2-612D-41EB-B815-5B9392F7F70A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{5B06E2B2-612D-41EB-B815-5B9392F7F70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWebpack", "SignalRWebpack\SignalRWebpack.csproj", "{87A3B75A-EAF0-4469-AC2E-72D1AC437330}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5B06E2B2-612D-41EB-B815-5B9392F7F70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B06E2B2-612D-41EB-B815-5B9392F7F70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B06E2B2-612D-41EB-B815-5B9392F7F70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
