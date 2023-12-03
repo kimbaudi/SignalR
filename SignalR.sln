@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{5B06E2B2-612D-41EB-B815-5B9392F7F70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWebpack", "SignalRWebpack\SignalRWebpack.csproj", "{87A3B75A-EAF0-4469-AC2E-72D1AC437330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRWebpack", "SignalRWebpack\SignalRWebpack.csproj", "{87A3B75A-EAF0-4469-AC2E-72D1AC437330}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSignalRApp", "BlazorSignalRApp\BlazorSignalRApp.csproj", "{A5A6AE65-8713-44AA-8317-11C91CAD4959}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A3B75A-EAF0-4469-AC2E-72D1AC437330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A6AE65-8713-44AA-8317-11C91CAD4959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6AE65-8713-44AA-8317-11C91CAD4959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6AE65-8713-44AA-8317-11C91CAD4959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6AE65-8713-44AA-8317-11C91CAD4959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
